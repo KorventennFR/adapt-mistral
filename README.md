@@ -45,7 +45,7 @@ pip install -U adapters
 ... or from source by cloning the repository:
 
 ```
-git clone https://github.com/adapter-hub/adapters.git
+git clone https://github.com/KorventennFR/adapt-mistral.git
 git checkout adapters
 cd adapters
 pip install .
